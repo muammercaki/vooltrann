@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.voltran.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.048 s <<< FAILURE! - in com.voltran.runner.TestRunner
+initializationError(com.voltran.runner.TestRunner)  Time elapsed: 0.012 s  <<< ERROR!
+cucumber.runtime.CucumberException: Couldn't load plugin class: com.cucumber.listener.ExtentCucumberFormatter
+Caused by: java.lang.ClassNotFoundException: com.cucumber.listener.ExtentCucumberFormatter
+

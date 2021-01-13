@@ -1,0 +1,1 @@
+{"uuid":"9ea6e15a-aa3d-4487-b632-54ddd6bd7a5b","name":"com.voltran.base.base","children":["a6b1f8d3-cb18-4964-baa4-03e2b22445db"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1610366320054,"stop":1610366321503}],"afters":[],"links":[],"start":1610366320009,"stop":1610366329846}
